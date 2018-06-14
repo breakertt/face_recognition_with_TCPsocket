@@ -1,6 +1,6 @@
 # face_recognition_with_TCPsocket
 train and detecte your face remote
-##Inspiration
+## Inspiration
 * [Facenet](https://github.com/davidsandberg/facenet) is the basement of my project.
 * [shanren7](https://github.com/shanren7/real_time_face_recognition) and [bearsprogrammer](https://github.com/bearsprogrammer/real-time-deep-face-recognition/) also brought great help.
 ## Enviroment
